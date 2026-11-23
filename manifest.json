@@ -1,6 +1,5 @@
 {
-  "Version": "1.2.0",
-  "ReleaseNotes": "Первая тестовая версия Infinity RolePlay",
-  "PackageUrl": "",
-  "Sha256": ""
+  "Version": "1.0.0",
+  "PackageUrl": "https://github.com/isatagiyev72-dotcom/InfinityRolePlay-Client/releases/download/test-1.0/InfinityRolePlay_TestPackage.zip",
+  "Sha256": "bc67fec2f5b5a3de0326251407a6032bea4507be62f1d6e802e067d8245aa75c"
 }
