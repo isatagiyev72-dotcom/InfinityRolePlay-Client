@@ -1,5 +1,7 @@
+
 {
   "Version": "1.3.1",
   "PackageUrl": "https://github.com/isatagiyev72-dotcom/InfinityRolePlay-Client/releases/download/launcher-1.3.1/InfinityRolePlay_Launcher_1.3.1.zip",
-  "Sha256": "F0785D209DC04EE257C862286C6758E5CC5053BDDCC29ABDA7B36FB74743589A"
+  "Sha256": "F0785D209DC04EE257C862286C6758E5CC5053BDDCC29ABDA7B36FB74743589A",
+  "ReleaseNotes": "Раздельное обновление лаунчера и игрового клиента."
 }
